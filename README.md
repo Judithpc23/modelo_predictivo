@@ -5,3 +5,6 @@ En este estudio se estimó un modelo de ecuación logística para predecir la ca
 
 ## Palabras claves
 Universidad del Norte, modelo predictivo, ecuación diferencial logística, becas, investigación, población.
+
+
+Puedes acceder al informe completo [aquí](Incidencias%20y%20variaciones%20en%20la%20comunidad%20estudiantil%20becada%20de%20la%20Universidad%20del%20Norte%20%284%29.pdf).
